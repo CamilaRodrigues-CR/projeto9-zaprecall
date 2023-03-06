@@ -21,7 +21,7 @@ export default App;
 const ContainerGeral = styled.div `
 background-color: #FB6B6B;
 width: 100%;
-height: 700px;
+height: 100%;
 display: flex;
 flex-direction: column;
 align-items: center;

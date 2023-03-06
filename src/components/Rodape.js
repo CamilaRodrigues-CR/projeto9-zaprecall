@@ -16,7 +16,6 @@ background-color: #FFFFFF;
 display: flex;
 justify-content: center;
 align-items: center;
-margin-top:30px ;
 position: fixed;
 bottom: 0;
 left: 0;
